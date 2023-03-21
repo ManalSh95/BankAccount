@@ -11,7 +11,7 @@ Azure Functions Core Tools
 Clone the repository to your local machine
 
 
-Run the SQL Server Query script file in your SQL Server Management Studio to create the databases
+Run the SQL Server Query script file in your SQL Server to create the databases
 
 
 Open the solution file (BankAccount.sln) in Visual Studio
